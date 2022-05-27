@@ -1,0 +1,42 @@
+.bg-text {
+
+  color: black;
+  font-weight: bold;
+
+}
+
+#one1 {
+  height: 2px;
+  border-width: 0;
+  color: red;
+  background-color: red;
+}
+
+#one {
+  height: 2px;
+  border-width: 0;
+  color: black;
+  background-color: black;
+}
+
+.sidenav {
+  height: 100%;
+  width: 120px;
+  position: fixed;
+  z-index: 1;
+  top: 12%;
+  left: 0;
+  background-image: url("../../assets/imagenes/pin.jpg");
+  overflow-x: hidden;
+}
+
+.sidenav2 {
+  height: 100%;
+  width: 120px;
+  position: fixed;
+  top: 12%;
+  right: 0;
+  background-image: url("../../assets/imagenes/pin.jpg");
+  background-position: center;
+  overflow-x: hidden;
+}
